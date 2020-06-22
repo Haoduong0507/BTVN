@@ -1,0 +1,17 @@
+ol{
+    list-style-type: upper-alpha;
+}
+
+.FontColor{
+    color: red;
+} 
+
+ li:nth-child(1){
+    color: blue;
+}
+
+div:nth-child(1){
+    text-align: center;
+    line-height: 15px;
+}
+
